@@ -1,0 +1,1 @@
+job_elements = results.find_all("div", class_="card-content")
